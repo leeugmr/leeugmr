@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **html, css, python and javascript**
 
-- 👨‍💻 All of my projects are available at [in my github](in my github)
+- 👨‍💻 All of my projects are available at my github
 
 - 📫 How to reach me **leomour@outlook.com**
 
