@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Gabriel</h1>
-<h3 align="center">I'm engineer software student from Brazil and welcome to my github profile :)</h3>
+<h3 align="center">I'm engineering software student from Brazil and welcome to my github profile :))</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leeugmr&label=Profile%20views&color=0e75b6&style=flat" alt="leeugmr" /> </p>
 
