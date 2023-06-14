@@ -11,12 +11,6 @@
 - 🎮 Amo jogar 
 - 🖥️ PC enthusiast
 
-<code align=center>› Vamos trabalhar juntos? Contate-me :) </code>
-  <br>
-  <br>
-  <code align=center>› Email, LinkedIn e outros estão anexados ao meu perfil</code>
-
-
 <div align="center"><br>
 
 ---
