@@ -11,6 +11,10 @@
 - 🎮 Amo jogar 
 - 🖥️ PC enthusiast
 
+
+
+
+
 <div align="center"><br>
 
 ---
