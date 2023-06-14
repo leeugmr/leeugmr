@@ -2,20 +2,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leeugmr&label=Profile%20views&color=0e75b6&style=flat" alt="leeugmr" /> </p>
 
-<img align="right" height="300cm" width="500px" src="https://github.com/leeugmr/leeugmr/assets/96838617/748ea5d6-0102-491c-95ee-ef6b381d8c4c" />
+<img src="https://github.com/leeugmr/leeugmr/assets/96838617/748ea5d6-0102-491c-95ee-ef6b381d8c4c" alt="coding" align="right" width="505px" height="505px" />
 
 - 🖊️ Estou aprendendo **html, css, javascript e java**
 - 🎓 Estudando Engenharia de Software
 - 👨‍💻 Todos os meus projetos estarão no github
 - 🐈 Amo gatos
 - 🎮 Amo jogar 
-- 🖥️ PC enthusiast
-
+- 🖥️ PC enthusiast 
 
 ---
+<h2 align="center">Um pouco do meu trajeto</h2>
+<div align="center">
+Entrei no mundo da programação em 2023, eu sempre fui pessoa interessada em computadores em gerais, como eles funcionam e como os programas em si são feitos. Conheci programação alguns anos atrás antes de começar e achava muito difícil e achava que não era pra mim até que comecei a tentar entender e aprofundar a mais. E agora estou na jornada de aprendizado para melhorar cada vez mais. Com a paixão em design e experiência do usuário,  meu objetivo é se tornar um desenvolvedor front-end. No momento estou fazendo barachelado em Engenharia de Software.
 
-
-<div align="center"><br>
+  <div align="center"><br>
 
 ---
 ### __🔧 Ferramentas que eu estou usando no momento__
