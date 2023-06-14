@@ -14,7 +14,7 @@
 ---
 <h2 align="center">Um pouco do meu trajeto</h2>
 <div align="center">
-Entrei no mundo da programação em 2023, eu sempre fui pessoa interessada em computadores em gerais, como eles funcionam e como os programas em si são feitos. Conheci programação alguns anos atrás antes de começar e achava muito difícil e achava que não era pra mim, até que comecei a tentar entender e aprofundar a mais. E agora estou na jornada de aprendizado para melhorar cada vez mais. Com a paixão em design e experiência do usuário,  meu objetivo é se tornar um desenvolvedor front-end. No momento estou fazendo barachelado em Engenharia de Software.
+Entrei no mundo da programação em 2023, eu sempre fui pessoa interessada em computadores em gerais, como eles funcionam e como os programas em si são feitos. Conheci programação alguns anos atrás antes de começar e achava muito difícil e achava que não era pra mim, até que comecei a tentar entender e aprofundar a mais. E agora estou na jornada de aprendizado para melhorar cada vez mais. Com a paixão em design e experiência do usuário,  meu objetivo é se tornar um desenvolvedor front-end. No momento estou fazendo bacharelado em Engenharia de Software.
 
   <div align="center"><br>
 
