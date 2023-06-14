@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leeugmr&label=Profile%20views&color=0e75b6&style=flat" alt="leeugmr" /> </p>
 
-<img src="https://github.com/leeugmr/leeugmr/assets/96838617/748ea5d6-0102-491c-95ee-ef6b381d8c4c" alt="coding" align="right" width="450px" height="450px" />
+<img src="https://github.com/leeugmr/leeugmr/assets/96838617/748ea5d6-0102-491c-95ee-ef6b381d8c4c" alt="coding" align="right" width="400px" height="400px" />
 
 - 🖊️ Estou aprendendo **html, css, javascript e java**
 - 🎓 Estudando Engenharia de Software
