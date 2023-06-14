@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/leeufps1" target="blank"><img src="https://img.shields.io/twitter/follow/leeufps1?logo=twitter&style=for-the-badge" alt="leeufps1" /></a> </p>
 
+<img align="right" height="300cm" width="500px" src="https://github.com/leeugmr/leeugmr/assets/96838617/748ea5d6-0102-491c-95ee-ef6b381d8c4c" />
+
 - 🌱 I’m currently learning **html, css, python and javascript**
 
 - 👨‍💻 All of my projects are available at my github
